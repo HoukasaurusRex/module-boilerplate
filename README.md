@@ -2,6 +2,7 @@
 
 [![NPM Total Downloads](https://img.shields.io/npm/dt/module-boilerplate.svg)](https://www.npmjs.com/package/module-boilerplate)
 [![David Dependencies Status](https://david-dm.org/pterobyte/module-boilerplate.svg)](https://david-dm.org/pterobyte/module-boilerplate)
+[![devDependencies Status](https://david-dm.org/pterobyte/module-boilerplate/dev-status.svg)](https://david-dm.org/pterobyte/module-boilerplate?type=dev)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Pterobyte/module-boilerplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Pterobyte/module-boilerplate/context:javascript)
 [![prs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/pterobyte/module-boilerplate/master)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
@@ -9,7 +10,7 @@
 
 Brief description or tagline
 
-![screenshots](assets/screenshot.png)
+![screenshots](assets/npm.jpg)
 
 Explanation and purpose of module
 
